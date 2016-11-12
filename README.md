@@ -53,14 +53,59 @@
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#!)
 
-## Libraries and Packages
-- 
+## Platforms, Libraries, and Packages
+- Python
+    + [IPython Documentation](http://ipython.readthedocs.io/en/stable/)
+    + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/)
+    + [Matplotlib](http://matplotlib.org/)
+    + [Natural Language Toolkit](http://www.nltk.org/)
+    + [Numpy and Scipy](https://docs.scipy.org/doc/)
+    + [Pandas](http://pandas.pydata.org/pandas-docs/stable/)
+    + [PyBrain](http://pybrain.org/)
+    + [Scikit-image](http://scikit-image.org/)
+    + [Scikit-learn](http://scikit-learn.org/stable/documentation.html)
+    + [Seaborn](http://seaborn.pydata.org/api.html)
+    + [StatsModels](http://statsmodels.sourceforge.net/documentation.html)
+- R
+    + 
+- [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/)
+- [Weka](http://www.cs.waikato.ac.nz/ml/weka/documentation.html)
+- [Theano](http://deeplearning.net/software/theano/)
+- [TensorFlow](https://www.tensorflow.org/versions/r0.11/api_docs/index.html)
+- [Spark](http://spark.apache.org/docs/latest/)
+- [Hive](https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
+- [Pig](http://pig.apache.org/docs/r0.16.0/)
+- [Node.js](https://nodejs.org/en/docs/)
+- [Anaconda](https://docs.continuum.io/)
 
 ## Programming Languages
-- 
+- [Python](https://docs.python.org/3/)
+- [R](https://cran.r-project.org/manuals.html)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [Julia](http://docs.julialang.org/en/release-0.5/)
+- [Scala](http://docs.scala-lang.org/)
+
+## Databases
+- Redshift
+- MongoDB
+- Redis
+- MySQL
+- PostgreSQL
+- DynamoDB
+- BigTable
+- S3
+- [Hadoop](http://hadoop.apache.org/docs/current/)
 
 ## Cloud/SaaS/Paas/IaaS
--
+- [AWS]()
+- [Google Cloud Platform]()
+- [Digital Ocean]()
+
+## IDEs
+- Sublime Text
+- R Studio
+- Spyder
 
 ## Cheats
 - [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
