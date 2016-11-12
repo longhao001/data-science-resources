@@ -1,7 +1,7 @@
 # Data Science Resources
 
 ## Blogs
-- [InnoArchiTEch](http://www.innoarchitech.com/)
+- [InnoArchiTech](http://www.innoarchitech.com/)
 
 ## Web Resources
 - [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
