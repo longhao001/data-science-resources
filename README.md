@@ -149,6 +149,7 @@ I have also included links for web/API development, programming languages, DevOp
     + [NetworkX](http://networkx.github.io/documentation.html)
 - R
     + [ggplot2](http://docs.ggplot2.org/current/)
+    + [ISLR](https://cran.r-project.org/web/packages/ISLR/index.html)
     + [Rcpp](https://cran.r-project.org/web/packages/Rcpp/index.html)
     + [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html)
     + [plyr](https://cran.r-project.org/web/packages/plyr/index.html)
@@ -162,6 +163,9 @@ I have also included links for web/API development, programming languages, DevOp
     + [lme4](https://cran.r-project.org/web/packages/lme4/index.html)
     + [nlme](https://cran.r-project.org/web/packages/nlme/index.html)
     + [mime](https://cran.r-project.org/web/packages/mime/index.html)
+    + [mda](https://cran.r-project.org/web/packages/mda/index.html)
+    + [lasso2](https://cran.r-project.org/web/packages/lasso2/index.html)
+    + [lars](https://cran.r-project.org/web/packages/lars/index.html)
     + [digest](https://cran.r-project.org/web/packages/digest/index.html)
     + [reshape2](https://cran.r-project.org/web/packages/reshape2/index.html)
     + [colorspace](https://cran.r-project.org/web/packages/colorspace/index.html)
@@ -202,6 +206,7 @@ I have also included links for web/API development, programming languages, DevOp
     + [tm](https://cran.r-project.org/web/packages/tm/index.html)
     + [gmodels](https://cran.r-project.org/web/packages/gmodels/index.html)
     + [rodbc](https://cran.r-project.org/web/packages/RODBC/index.html)
+    + [princurve](https://cran.r-project.org/web/packages/princurve/index.html)
     + [General CRAN List - By task](https://cran.r-project.org/web/views/)
     + [General CRAN List - NLP/Text analytics](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
     + [General CRAN List](https://cran.r-project.org/web/views/MachineLearning.html)
@@ -239,6 +244,11 @@ I have also included links for web/API development, programming languages, DevOp
 - [Mastering Predictive Analytics with R](https://www.packtpub.com/application-development/mastering-predictive-analytics-r)
 - [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r)
 - [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
+- [Data Science for Business](http://data-science-for-biz.com/DSB/Home.html)
+- [Data Analytics Made Accessible](https://www.amazon.com/Data-Analytics-Made-Accessible-Maheshwari-ebook/dp/B00K2I2JL8)
+- [Data Smart](http://www.john-foreman.com/data-smart-book.html)
+- [Predictive Analytics](http://www.cs.columbia.edu/~evs/)
+- [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
 
 []()
 
