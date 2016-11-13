@@ -1,16 +1,26 @@
 # Data Science Resources
 
+Welcome! 
+
+Here is a non-exaustive list of resources for data science, including data/text analytics, machine learning, artificial intelligence, and data visualization.
+
+I have also included links for web/API development, programming languages, DevOps tools, cloud computing, and more.
+
 ## Blogs
 - [InnoArchiTech](http://www.innoarchitech.com/)
-
-## Web Resources
-- [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
-- [Data School resources](http://www.dataschool.io/resources/)
-- [Open Source Data Science Masters](http://datasciencemasters.org/)
-- [Open Source Data Science Masters - GitHub](https://github.com/datasciencemasters)
-- [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-- [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)
-- [Best machine learning packages in R](http://www.kdnuggets.com/2015/06/top-20-r-machine-learning-packages.html)
+- [Flowing Data](http://flowingdata.com/)
+- [KDnuggets](http://www.kdnuggets.com/)
+- [R-bloggers](https://www.r-bloggers.com/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
+- [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/)
+- [Simply Statistics](http://simplystatistics.org/)
+- [Walking Randomly](http://www.walkingrandomly.com/)
+- [FastML](http://fastml.com/)
+- [No Free Hunch](http://blog.kaggle.com/)
+- [Machine Learning Mastery](http://machinelearningmastery.com/)
+- [Data Science Weekly](https://www.datascienceweekly.org/)
+- [Edwin Chen](http://blog.echen.me/)
+- [Harvard Data Science](http://harvarddatascience.com/)
 
 ## GitHub Repos
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
@@ -21,12 +31,9 @@
 - [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
 - [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR)
 - [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-- [Spark Notebook](https://github.com/andypetrella/spark-notebook)
 - [Learn Data Science open resources](https://github.com/nborwankar/LearnDataScience)
 - [List of Data Science/Big Data Resources](https://github.com/chaconnewu/free-data-science-books)
 - [General Assembly's Data Science course materials](https://github.com/justmarkham/DAT8)
-- [IPython Cookbook materials](https://github.com/ipython-books/cookbook-code)
-- [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial)
 - [theano-tutorial](https://github.com/craffel/theano-tutorial)
 - [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
@@ -38,18 +45,26 @@
 - [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 - [machine_learning](https://github.com/masinoa/machine_learning)
 - [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
-
-## Books
-- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)
-- [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
-- [Mastering Predictive Analytics with R](https://www.packtpub.com/application-development/mastering-predictive-analytics-r)
-- [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r)
-- [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
+- [Spark Notebook](https://github.com/andypetrella/spark-notebook)
 
 ## Book Resources
 - [Python Machine Learning book resources](https://github.com/rasbt/python-machine-learning-book)
 - [Learning-Predictive-Analytics-with-R](https://github.com/PacktPublishing/Learning-Predictive-Analytics-with-R)
 - [Data Science from Scratch book resources](https://github.com/joelgrus/data-science-from-scratch)
+- [IPython Cookbook materials](https://github.com/ipython-books/cookbook-code)
+- [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook)
+
+## Cheats
+- [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/)
+- [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)
+
+## Web Resources
+- [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
+- [Data School resources](http://www.dataschool.io/resources/)
+- [Open Source Data Science Masters](http://datasciencemasters.org/)
+- [Open Source Data Science Masters - GitHub](https://github.com/datasciencemasters)
+- [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
 ## Datasets
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -61,12 +76,11 @@
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#!)
 
-## Web and API
-- [Node.js](https://nodejs.org/en/docs/)
-- [AngularJS](https://docs.angularjs.org/guide)
-- [React](https://facebook.github.io/react/docs/hello-world.html)
+## IDEs
+- [Sublime Text](https://www.sublimetext.com/)
+- [R Studio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
 
-## Programming Languages
+## Programming Languages & OS
 - [Python](https://docs.python.org/3/)
 - [R](https://cran.r-project.org/manuals.html)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -75,6 +89,11 @@
 - [Scala](http://docs.scala-lang.org/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Bash](http://ss64.com/bash/)
+- [Ubuntu](https://help.ubuntu.com/)
+- [JSON](http://www.json.org/)
+- [YAML](http://yaml.org/spec/1.2/spec.html)
+- [Git](https://git-scm.com/documentation)
 
 ## Databases
 - AWS
@@ -102,17 +121,6 @@
 - [ElasticSearch](https://www.elastic.co/guide/index.html)
 - [Hadoop](http://hadoop.apache.org/docs/current/)
 - [Spark](http://spark.apache.org/docs/latest/)
-
-## Cloud/SaaS/Paas/IaaS
-- [AWS]()
-    + [Kinesis](https://aws.amazon.com/documentation/kinesis/)
-        + [QuickSite]()
-    + [Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
-    + [IoT](https://aws.amazon.com/documentation/iot/)
-    + [Lambda](https://aws.amazon.com/documentation/lambda/)
-    + [EC2](https://aws.amazon.com/documentation/ec2/)
-- [Google Cloud Platform](https://cloud.google.com/docs/)
-- [Digital Ocean](https://developers.digitalocean.com/documentation/)
 
 ## Platforms, Libraries, and Packages
 - [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/)
@@ -198,14 +206,39 @@
     + [General CRAN List - NLP/Text analytics](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
     + [General CRAN List](https://cran.r-project.org/web/views/MachineLearning.html)
 
-## IDEs
-- [Sublime Text](https://www.sublimetext.com/)
-- [R Studio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
-- [JetBrains](https://www.jetbrains.com/)
+## Cloud/SaaS/Paas/IaaS
+- [AWS]()
+    + [Kinesis](https://aws.amazon.com/documentation/kinesis/)
+        + [QuickSite]()
+    + [Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
+    + [IoT](https://aws.amazon.com/documentation/iot/)
+    + [Lambda](https://aws.amazon.com/documentation/lambda/)
+    + [EC2](https://aws.amazon.com/documentation/ec2/)
+- [Google Cloud Platform](https://cloud.google.com/docs/)
+- [Digital Ocean](https://developers.digitalocean.com/documentation/)
 
-## Cheats
-- [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/)
+## Web, API, and DevOps
+- [Node.js](https://nodejs.org/en/docs/)
+- [AngularJS](https://docs.angularjs.org/guide)
+- [React](https://facebook.github.io/react/docs/hello-world.html)
+- [Docker](https://docs.docker.com/)
+- [SaltStack](https://docs.saltstack.com/en/latest/)
+- [Font Awesome](http://fontawesome.io/)
+- [Bootstrap](http://getbootstrap.com/)
+- [Jekyll](https://jekyllrb.com/docs/home/)
+- [Grunt](http://gruntjs.com/getting-started)
+- [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/README.md)
+- [Nginx](https://nginx.org/en/docs/)
+
+## Articles
+- [Best machine learning packages in R](http://www.kdnuggets.com/2015/06/top-20-r-machine-learning-packages.html)
+
+## Books
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)
+- [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+- [Mastering Predictive Analytics with R](https://www.packtpub.com/application-development/mastering-predictive-analytics-r)
+- [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r)
+- [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning)
 
 []()
 
