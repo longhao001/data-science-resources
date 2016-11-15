@@ -1,5 +1,7 @@
 # Wikipedia Links
 
+Note that some links are categorized according to my determination of best fit since some topics may span multiple categories.
+
 ## Statistics and Analysis
 - [Statistics portal](https://en.wikipedia.org/wiki/Portal:Statistics)
 - [ANOVA - Analysis of variance](https://en.m.wikipedia.org/wiki/Analysis_of_variance)
