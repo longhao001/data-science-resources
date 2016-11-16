@@ -2,9 +2,9 @@
 
 Welcome! 
 
-Here is a non-exaustive list of resources for data science, including data/text analytics, machine learning, artificial intelligence, and data visualization.
+Here is a non-exaustive, work in progress list of resources for data science, machine learning, artificial intelligence, data and text analytics, and data visualization.
 
-I have also included links for web/API development, programming languages, DevOps tools, cloud computing, and more.
+I've also included links for web and API development, programming languages, DevOps tools, cloud computing, and more.
 
 ## Blogs
 - [InnoArchiTech](http://www.innoarchitech.com/)

@@ -1,5 +1,7 @@
 # Wikipedia Links
 
+Here is a non-exaustive, work in progress list of Wikipedia links related to statistics, analytics, data science, data mining, artificial intelligence, data visualization, big data, IoT, experimentation, and so on.
+
 Note that some links are categorized according to my determination of best fit since some topics may span multiple categories.
 
 ## Statistics and Analysis
