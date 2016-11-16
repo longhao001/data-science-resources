@@ -235,9 +235,6 @@ I've also included links for web and API development, programming languages, Dev
 - [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/README.md)
 - [Nginx](https://nginx.org/en/docs/)
 
-## Articles
-- [Best machine learning packages in R](http://www.kdnuggets.com/2015/06/top-20-r-machine-learning-packages.html)
-
 ## Books
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)
 - [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
@@ -250,5 +247,10 @@ I've also included links for web and API development, programming languages, Dev
 - [Predictive Analytics](http://www.cs.columbia.edu/~evs/)
 - [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
 
-[]()
+## Articles
+- [Best machine learning packages in R](http://www.kdnuggets.com/2015/06/top-20-r-machine-learning-packages.html)
+- [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
+- [Data Science Falls Into Many Roles](http://www.forbes.com/sites/rawnshah/2015/10/06/data-science-falls-into-many-roles/)
+- [What’s the Difference Between Data Science Roles?](https://www.betterbuys.com/bi/comparing-data-science-roles/)
+- [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
 
