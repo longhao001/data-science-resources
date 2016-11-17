@@ -6,6 +6,8 @@ Here is a non-exaustive, work in progress list of resources for data science, ma
 
 I've also included links for web and API development, programming languages, DevOps tools, cloud computing, and more.
 
+Note that resources are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
+
 ## Blogs
 - [InnoArchiTech](http://www.innoarchitech.com/)
 - [Flowing Data](http://flowingdata.com/)
@@ -58,6 +60,8 @@ I've also included links for web and API development, programming languages, Dev
 - [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/)
 - [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)
+- [11 Steps for Data Exploration in R](https://www.analyticsvidhya.com/blog/2015/10/cheatsheet-11-steps-data-exploration-with-codes/)
+- [AI Cheat Sheet](http://alexoner.github.io/AI-cheat-sheet/)
 
 ## Web Resources
 - [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
@@ -246,6 +250,9 @@ I've also included links for web and API development, programming languages, Dev
 - [Data Smart](http://www.john-foreman.com/data-smart-book.html)
 - [Predictive Analytics](http://www.cs.columbia.edu/~evs/)
 - [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
+
+## Tutorials
+- [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
 
 ## Articles
 - [Best machine learning packages in R](http://www.kdnuggets.com/2015/06/top-20-r-machine-learning-packages.html)
