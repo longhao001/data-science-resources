@@ -218,7 +218,7 @@ Note that resources are listed in no particular order of preference or relevance
 ## Cloud/SaaS/Paas/IaaS
 - [AWS]()
     + [Kinesis](https://aws.amazon.com/documentation/kinesis/)
-        + [QuickSite]()
+    + [QuickSight](https://quicksight.aws/)
     + [Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
     + [IoT](https://aws.amazon.com/documentation/iot/)
     + [Lambda](https://aws.amazon.com/documentation/lambda/)
