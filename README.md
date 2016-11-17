@@ -51,6 +51,7 @@ Note that resources are listed in no particular order of preference or relevance
 
 ## Book Resources
 - [Python Machine Learning book resources](https://github.com/rasbt/python-machine-learning-book)
+- [Python Machine Learning book FAQ](https://github.com/rasbt/python-machine-learning-book/tree/master/faq)
 - [Learning-Predictive-Analytics-with-R](https://github.com/PacktPublishing/Learning-Predictive-Analytics-with-R)
 - [Data Science from Scratch book resources](https://github.com/joelgrus/data-science-from-scratch)
 - [IPython Cookbook materials](https://github.com/ipython-books/cookbook-code)
@@ -62,6 +63,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)
 - [11 Steps for Data Exploration in R](https://www.analyticsvidhya.com/blog/2015/10/cheatsheet-11-steps-data-exploration-with-codes/)
 - [AI Cheat Sheet](http://alexoner.github.io/AI-cheat-sheet/)
+- [Data Science Cheat Sheet](http://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet)
 
 ## Web Resources
 - [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
