@@ -103,9 +103,10 @@ Note that resources are listed in no particular order of preference or relevance
 
 ## Databases
 - AWS
-    - [Redshift](https://aws.amazon.com/documentation/redshift/)
-    - [DynamoDB](https://aws.amazon.com/documentation/dynamodb/)
-    - [RDS](https://aws.amazon.com/documentation/rds/)
+    - [Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
+    - [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - Fast and flexible NoSQL database service for any scale
+    - [RDS](https://aws.amazon.com/documentation/rds/) - Amazon Relational Database Service
+        + Amazon Aurora
         + Oracle
         + Microsoft SQL Server
         + PostgreSQL
@@ -219,12 +220,18 @@ Note that resources are listed in no particular order of preference or relevance
 
 ## Cloud/SaaS/Paas/IaaS
 - [AWS]()
-    + [Kinesis](https://aws.amazon.com/documentation/kinesis/)
-    + [QuickSight](https://quicksight.aws/)
+    + [Kinesis](https://aws.amazon.com/documentation/kinesis/) - Real-time streaming data in the AWS cloud
+        * Firehouse - Easily load real-time streaming data into AWS
+        * Analytics - Get actionable insights from streaming data in real-time
+        * Streams - Build custom applications that process or analyze streaming data for specialized needs
+    + [Amazon EMR](https://aws.amazon.com/documentation/elastic-mapreduce/) - Easily Run and Scale Apache Hadoop, Spark, HBase, Presto, Hive, and other Big Data Frameworks
+    + [QuickSight](https://quicksight.aws/) - Fast, easy to use business analytics
     + [Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
-    + [IoT](https://aws.amazon.com/documentation/iot/)
-    + [Lambda](https://aws.amazon.com/documentation/lambda/)
-    + [EC2](https://aws.amazon.com/documentation/ec2/)
+    + [IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
+    + [Lambda](https://aws.amazon.com/documentation/lambda/) - Serverless compute. AWS Lambda lets you run code without provisioning or managing servers
+    + [EC2](https://aws.amazon.com/documentation/ec2/) - Web service that provides resizable compute capacity in the cloud
+    + [Elastic Beanstalk](https://aws.amazon.com/documentation/elastic-beanstalk/) - Deploy and scale web applications and services
+    + [ElastiCache](https://aws.amazon.com/documentation/elasticache/) - Web service that makes it easy to deploy, operate, and scale an in-memory data store or cache in the cloud
 - [Google Cloud Platform](https://cloud.google.com/docs/)
 - [Digital Ocean](https://developers.digitalocean.com/documentation/)
 
