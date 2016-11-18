@@ -101,7 +101,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [YAML](http://yaml.org/spec/1.2/spec.html)
 - [Git](https://git-scm.com/documentation)
 
-## Databases
+## Databases and Big Data
 - AWS
     - [Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
     - [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - Fast and flexible NoSQL database service for any scale
@@ -125,7 +125,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Riak](https://docs.basho.com/)
 - [HBase](https://hbase.apache.org/book.html)
 - [CouchDB](http://docs.couchdb.org/en/2.0.0/)
-- [ElasticSearch](https://www.elastic.co/guide/index.html)
+- [ElasticSearch](https://www.elastic.co/guide/index.html) - Service that makes it easy to deploy, operate, and scale Elasticsearch in the AWS Cloud
 - [Hadoop](http://hadoop.apache.org/docs/current/)
 - [Spark](http://spark.apache.org/docs/latest/)
 
@@ -232,6 +232,8 @@ Note that resources are listed in no particular order of preference or relevance
     + [EC2](https://aws.amazon.com/documentation/ec2/) - Web service that provides resizable compute capacity in the cloud
     + [Elastic Beanstalk](https://aws.amazon.com/documentation/elastic-beanstalk/) - Deploy and scale web applications and services
     + [ElastiCache](https://aws.amazon.com/documentation/elasticache/) - Web service that makes it easy to deploy, operate, and scale an in-memory data store or cache in the cloud
+    + [AWS Data Pipeline](https://aws.amazon.com/documentation/data-pipeline/) - Easily automate the movement and transformation of data
+    + [AWS SES](https://aws.amazon.com/documentation/ses/) - Reliable, cost-effective email platform
 - [Google Cloud Platform](https://cloud.google.com/docs/)
 - [Digital Ocean](https://developers.digitalocean.com/documentation/)
 
