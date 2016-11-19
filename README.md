@@ -106,12 +106,12 @@ Note that resources are listed in no particular order of preference or relevance
     - [Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
     - [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - Fast and flexible NoSQL database service for any scale
     - [RDS](https://aws.amazon.com/documentation/rds/) - Amazon Relational Database Service
-        + Amazon Aurora
-        + Oracle
-        + Microsoft SQL Server
-        + PostgreSQL
-        + MySQL
-        + MariaDB
+        + [Amazon Aurora](https://aws.amazon.com/rds/aurora/getting-started/) - MySQL-compatible relational database with 5X performance
+        + [Oracle](https://docs.oracle.com/en/database/)
+        + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)
+        + [PostgreSQL](https://www.postgresql.org/docs/)
+        + [MySQL](https://dev.mysql.com/doc/)
+        + [MariaDB](https://mariadb.org/learn/)
     + [Kinesis](https://aws.amazon.com/documentation/kinesis/) - Real-time streaming data in the AWS cloud
         * Firehouse - Easily load real-time streaming data into AWS
         * Analytics - Get actionable insights from streaming data in real-time
