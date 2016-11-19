@@ -15,7 +15,7 @@
 - Solution elements
     + Data sources: real time measurement, events, IoT, and so on
     + Data collection, extraction, and ingestion
-    + Data preparation and processing
+    + Data preparation, processing, cleaning, normalization, and standardization
     + Data storage
     + Data transformation and aggregation
     + Data visualization and analysis

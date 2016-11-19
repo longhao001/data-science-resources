@@ -83,6 +83,8 @@ Note that resources are listed in no particular order of preference or relevance
 - [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#!)
+- [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
+- [THE Wikipedia Corpus](http://corpus.byu.edu/wiki/)
 
 ## IDEs
 - [Sublime Text](https://www.sublimetext.com/)
@@ -95,6 +97,8 @@ Note that resources are listed in no particular order of preference or relevance
 - [SQL](https://en.wikipedia.org/wiki/SQL)
 - [Julia](http://docs.julialang.org/en/release-0.5/)
 - [Scala](http://docs.scala-lang.org/)
+- [Java](https://docs.oracle.com/javase)
+- [C++](http://devdocs.io/cpp/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Bash](http://ss64.com/bash/)
@@ -172,13 +176,14 @@ Note that resources are listed in no particular order of preference or relevance
     - [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
 
 ## Platforms, Libraries, and Packages
-- [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/)
-- [Weka](http://www.cs.waikato.ac.nz/ml/weka/documentation.html)
-- [Theano](http://deeplearning.net/software/theano/)
-- [TensorFlow](https://www.tensorflow.org/versions/r0.11/api_docs/index.html)
-- [Anaconda](https://docs.continuum.io/)
-- [Amazon Deep Scalable Sparse Tensor Network Engine (DSSTNE)](https://github.com/amznlabs/amazon-dsstne)
-- [Torch](http://torch.ch/docs/getting-started.html#_)
+- [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/) - A high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano
+- [Weka](http://www.cs.waikato.ac.nz/ml/weka/documentation.html) - A collection of machine learning algorithms for data mining tasks
+- [Theano](http://deeplearning.net/software/theano/) - Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
+- [TensorFlow](https://www.tensorflow.org/versions/r0.11/api_docs/index.html) - Open source software library for numerical computation using data flow graphs
+- [Anaconda](https://docs.continuum.io/) - Open data science platform powered by Python
+- [Amazon Deep Scalable Sparse Tensor Network Engine (DSSTNE)](https://github.com/amznlabs/amazon-dsstne) - An Amazon developed library for building Deep Learning (DL) machine learning (ML) models
+- [Torch](http://torch.ch/docs/getting-started.html#_) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first
+- [Caffe](http://caffe.berkeleyvision.org/) - A deep learning framework made with expression, speed, and modularity in mind
 - Python
     + [IPython Documentation](http://ipython.readthedocs.io/en/stable/)
     + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/)
@@ -307,4 +312,5 @@ Note that resources are listed in no particular order of preference or relevance
 - [Data Science Falls Into Many Roles](http://www.forbes.com/sites/rawnshah/2015/10/06/data-science-falls-into-many-roles/)
 - [What’s the Difference Between Data Science Roles?](https://www.betterbuys.com/bi/comparing-data-science-roles/)
 - [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
+- [All the best big data tools and how to use them](https://www.import.io/post/all-the-best-big-data-tools-and-how-to-use-them/)
 
