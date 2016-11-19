@@ -158,6 +158,7 @@ Note that resources are listed in no particular order of preference or relevance
     + [Bigtop](http://bigtop.apache.org/) - Project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components
     + [REEF](http://reef.apache.org/introduction.html) - Apache REEF (Retainable Evaluator Execution Framework) is a library for developing portable applications for cluster resource managers such as Apache Hadoop YARN or Apache Mesos
     + [Storm](http://storm.apache.org/index.html) - A free and open source distributed realtime computation system 
+    + [Kafka](https://kafka.apache.org/) - A distributed streaming platform
 - NoSQL
     - [MongoDB](https://docs.mongodb.com/) - NoSQL document store
     - [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker

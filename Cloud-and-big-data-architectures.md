@@ -74,6 +74,9 @@
 
 ## General
 - [Lambda Architecture](http://lambda-architecture.net/)
+- [AWS Architecture Center](https://aws.amazon.com/architecture/?nc1=f_cc)
+- [AWS Big Data Partner Solutions](https://aws.amazon.com/big-data/partner-solutions/)
+- [GCP Architecture](https://cloud.google.com/docs/tutorials#architecture)
 - [Introduction to big data classification and architecture](http://www.ibm.com/developerworks/library/bd-archpatterns1/)
 - [An Enterprise Architect’s Guide to Big Data](http://www.oracle.com/technetwork/topics/entarch/articles/oea-big-data-guide-1522052.pdf)
 - [BIG DATA REFERENCE ARCHITECTURE](https://thinkbiganalytics.com/leading_big_data_technologies/big-data-reference-architecture/)
