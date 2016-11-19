@@ -28,6 +28,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 - [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources)
 - [Data science blogs](https://github.com/rushter/data-science-blogs)
+- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [Data Science Specialization resources](https://github.com/DataScienceSpecialization/courses)
 - [Data Science Specialization notes](https://github.com/sux13/DataScienceSpCourseNotes)
 - [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
@@ -71,6 +72,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Open Source Data Science Masters](http://datasciencemasters.org/)
 - [Open Source Data Science Masters - GitHub](https://github.com/datasciencemasters)
 - [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
 
 ## Datasets
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -175,6 +177,8 @@ Note that resources are listed in no particular order of preference or relevance
 - [Theano](http://deeplearning.net/software/theano/)
 - [TensorFlow](https://www.tensorflow.org/versions/r0.11/api_docs/index.html)
 - [Anaconda](https://docs.continuum.io/)
+- [Amazon Deep Scalable Sparse Tensor Network Engine (DSSTNE)](https://github.com/amznlabs/amazon-dsstne)
+- [Torch](http://torch.ch/docs/getting-started.html#_)
 - Python
     + [IPython Documentation](http://ipython.readthedocs.io/en/stable/)
     + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/)
