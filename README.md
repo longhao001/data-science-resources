@@ -1,4 +1,4 @@
-# Data Science Resources
+# Data Science, Machine Learning, and Artificial Intelligence Resources
 
 Welcome! 
 
