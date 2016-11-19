@@ -1,6 +1,6 @@
 # Big Data Architectures
 
-## Big Data Overview
+## Big Data and Analytics Overview
 - [Four V's](http://www.ibmbigdatahub.com/infographic/four-vs-big-data)
     + Volume - Scale of data
     + Variety - Different forms of data
@@ -11,17 +11,26 @@
     + Value
     + Variability
 - Considerations
-    - Batching vs. streaming
+    - Data batching vs. streaming
+    - Embedded models or interfaces
+    - API or RPC or REST
+    - Deployed trained models (batch) vs. [real-time/streaming/online machine learning](https://en.wikipedia.org/wiki/Online_machine_learning)
+    - Reliable quality data
 - Solution elements
     + Data sources: real time measurement, events, IoT, and so on
-    + Data collection, extraction, and ingestion
+    + Raw data extraction, collection, and ingestion
     + Data preparation, processing, cleaning, normalization, and standardization
-    + Data storage
     + Data transformation and aggregation
-    + Data visualization and analysis
+    + Data storage
+    + Data comsumption, visualization, and analysis
     + Prediction and prescription
     + Asynchronous messaging
     + Actionable insights
+    + Deployed model monitoring and performance measurement
+- Data Analytics
+    + Descriptive analytics - What happened and why?
+    + Predictive analytics - What is the probability of something happening?
+    + Prescriptive analytics - What specific recommendations will drive business decisions and help achieve business goals (i.e., what to do if 'X' happens)
 
 ## AWS
 - [Solution Development Guides](https://aws.amazon.com/solutions)
@@ -72,3 +81,4 @@
 - [BIG DATA: Architectures and Technologies](https://www.sei.cmu.edu/go/big-data/)
 - [Big Data Architecture](http://bigdata.teradata.com/US/Big-Ideas/Big-Data-Architecture/)
 - [Big Data Analytics Architecture](http://www.thebigdatainsightgroup.com/site/sites/default/files/Teradata's%20-%20Big%20Data%20Architecture%20-%20Putting%20all%20your%20eggs%20in%20one%20basket.pdf)
+- [What is Streaming Data?](https://aws.amazon.com/streaming-data/)

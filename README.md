@@ -42,6 +42,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
 - [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
 - [Awesome R](https://github.com/qinwf/awesome-R)
+- [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks)
 
 ## Notebooks
 - [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
@@ -104,6 +105,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Bash](http://ss64.com/bash/)
 - [Ubuntu](https://help.ubuntu.com/)
 - [JSON](http://www.json.org/)
+- [JSON-RPC](http://json-rpc.org/)
 - [YAML](http://yaml.org/spec/1.2/spec.html)
 - [Git](https://git-scm.com/documentation)
 
@@ -184,6 +186,10 @@ Note that resources are listed in no particular order of preference or relevance
 - [Amazon Deep Scalable Sparse Tensor Network Engine (DSSTNE)](https://github.com/amznlabs/amazon-dsstne) - An Amazon developed library for building Deep Learning (DL) machine learning (ML) models
 - [Torch](http://torch.ch/docs/getting-started.html#_) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first
 - [Caffe](http://caffe.berkeleyvision.org/) - A deep learning framework made with expression, speed, and modularity in mind
+- [DL4J](https://deeplearning4j.org/) - Open-Source, Distributed, Deep Learning Library for the JVM
+- [DataRobot](https://www.datarobot.com/) - Automated Machine Learning
+- [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
+- [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
 - Python
     + [IPython Documentation](http://ipython.readthedocs.io/en/stable/)
     + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/)
@@ -313,4 +319,11 @@ Note that resources are listed in no particular order of preference or relevance
 - [What’s the Difference Between Data Science Roles?](https://www.betterbuys.com/bi/comparing-data-science-roles/)
 - [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
 - [All the best big data tools and how to use them](https://www.import.io/post/all-the-best-big-data-tools-and-how-to-use-them/)
+- [DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow](https://deeplearning4j.org/compare-dl4j-torch7-pylearn)
+- [10+ Machine Learning as a Service Platforms](http://www.butleranalytics.com/10-machine-learning-as-a-service-platforms/)
+- [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
+- [What are the pros and cons of offline vs. online learning?](https://www.quora.com/What-are-the-pros-and-cons-of-offline-vs-online-learning)
+- [Introduction to Online Machine Learning : Simplified](https://www.analyticsvidhya.com/blog/2015/01/introduction-online-machine-learning-simplified-2/)
+- [Machine Learning From Streaming Data: Two Problems, Two Solutions, Two Concerns, and Two Lessons](https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/)
+- [Batch vs. Real Time Data Processing](http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing)
 
