@@ -101,8 +101,8 @@ Note that resources are listed in no particular order of preference or relevance
 - [YAML](http://yaml.org/spec/1.2/spec.html)
 - [Git](https://git-scm.com/documentation)
 
-## Databases and Big Data
-- AWS
+## Database and Big Data
+- [AWS](https://aws.amazon.com/documentation/)
     - [Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
     - [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - Fast and flexible NoSQL database service for any scale
     - [RDS](https://aws.amazon.com/documentation/rds/) - Amazon Relational Database Service
@@ -117,28 +117,44 @@ Note that resources are listed in no particular order of preference or relevance
         * Analytics - Get actionable insights from streaming data in real-time
         * Streams - Build custom applications that process or analyze streaming data for specialized needs
     + [Amazon EMR](https://aws.amazon.com/documentation/elastic-mapreduce/) - Easily Run and Scale Apache Hadoop, Spark, HBase, Presto, Hive, and other Big Data Frameworks
-    + [QuickSight](https://quicksight.aws/) - Fast, easy to use business analytics
+    + [QuickSight](https://aws.amazon.com/documentation/quicksight/) - Fast, easy to use business analytics
     + [Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
     + [IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
     + [AWS Data Pipeline](https://aws.amazon.com/documentation/data-pipeline/) - Easily automate the movement and transformation of data
-- [MongoDB](https://docs.mongodb.com/)
-- [Redis](http://redis.io/documentation)
-- [Memcache](https://memcached.org/)
-- [MySQL](https://dev.mysql.com/doc/)
-- [PostgreSQL](https://www.postgresql.org/docs/)
-- [BigTable](https://cloud.google.com/bigtable/docs/)
-- [S3](https://aws.amazon.com/documentation/s3/)
-- [Neo4j](https://neo4j.com/docs/)
-- [CouchBase](http://developer.couchbase.com/documentation-archive)
-- [Cassandra](http://cassandra.apache.org/doc/latest/)
-- [Riak](https://docs.basho.com/)
-- [HBase](https://hbase.apache.org/book.html)
-- [CouchDB](http://docs.couchdb.org/en/2.0.0/)
-- [ElasticSearch](https://www.elastic.co/guide/index.html) - Service that makes it easy to deploy, operate, and scale Elasticsearch in the AWS Cloud
-- [Hadoop](http://hadoop.apache.org/docs/current/)
-- [Spark](http://spark.apache.org/docs/latest/)
-- [Hive](https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
-- [Pig](http://pig.apache.org/docs/r0.16.0/)
+- [Apache Foundation](https://www.apache.org/)
+    + [HBase](https://hbase.apache.org/book.html) - Apache HBase is the Hadoop database, a distributed, scalable, big data store
+    + [Hadoop](http://hadoop.apache.org/docs/current/) - Open-source software for reliable, scalable, distributed computing
+    + [Spark](http://spark.apache.org/docs/latest/) - A fast and general engine for large-scale data processing
+    + [Hive](https://cwiki.apache.org/confluence/display/Hive/LanguageManual) - Data warehouse software that facilitates reading, writing, and managing large datasets residing in distributed storage using SQL
+    + [Pig](http://pig.apache.org/docs/r0.16.0/) - A platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs, coupled with infrastructure for evaluating these programs
+    + [Kylin](http://kylin.apache.org/docs15/) - An open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets, original contributed from eBay Inc
+    + [Lens](http://lens.apache.org/user/index.html) - A unified analytics interface
+    + [Ignite](https://apacheignite.readme.io/docs) - A high-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies
+    + [Brooklyn](https://brooklyn.apache.org/documentation/index.html) - A framework for modeling, monitoring, and managing applications through autonomic blueprints
+    + [Apex](https://apex.apache.org/docs.html) - Enterprise-grade unified stream and batch processing engine
+    + [Tajo](http://tajo.apache.org/docs/current/index.html) - A robust big data relational and distributed data warehouse system for Apache Hadoop
+    + [Tez](https://tez.apache.org/user_guides.html) - An application framework which allows for a complex directed-acyclic-graph of tasks for processing data
+    + [Bigtop](http://bigtop.apache.org/) - Project for Infrastructure Engineers and Data Scientists looking for comprehensive packaging, testing, and configuration of the leading open source big data components
+    + [REEF](http://reef.apache.org/introduction.html) - Apache REEF (Retainable Evaluator Execution Framework) is a library for developing portable applications for cluster resource managers such as Apache Hadoop YARN or Apache Mesos
+    + [Storm](http://storm.apache.org/index.html) - A free and open source distributed realtime computation system 
+- NoSQL
+    - [MongoDB](https://docs.mongodb.com/) - NoSQL document store
+    - [Redis](http://redis.io/documentation) - An open source (BSD licensed), in-memory data structure store, used as database, cache and message broker
+    - [BigTable](https://cloud.google.com/bigtable/docs/) - Fast, fully managed, massively scalable NoSQL database service
+    - [Neo4j](https://neo4j.com/docs/) - World's fastest and most scalable graph database
+    - [CouchBase](http://developer.couchbase.com/documentation-archive) - A document database with a SQL-based query language that is engineered to deliver performance at scale
+    - [Cassandra](http://cassandra.apache.org/doc/latest/) - Free and open-source distributed database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure
+    - [Riak](https://docs.basho.com/) - Distributed NoSQL Database
+    - [CouchDB](http://docs.couchdb.org/en/2.0.0/) - NoSQL document store
+- RDBMS
+    + [MySQL](https://dev.mysql.com/doc/) - Open source RDBMS
+    + [PostgreSQL](https://www.postgresql.org/docs/) - Open-source Object-Relational DBMS supporting almost all SQL constructs
+- Static storage
+    - [S3](https://aws.amazon.com/documentation/s3/) - Simple, durable, massively scalable object storage
+- Search and full-text
+    - [ElasticSearch](https://www.elastic.co/guide/index.html) - Service that makes it easy to deploy, operate, and scale Elasticsearch in the AWS Cloud
+- Cache
+    - [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
 
 ## Platforms, Libraries, and Packages
 - [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/)
@@ -228,7 +244,7 @@ Note that resources are listed in no particular order of preference or relevance
     + [General CRAN List](https://cran.r-project.org/web/views/MachineLearning.html)
 
 ## Cloud/SaaS/Paas/IaaS
-- [AWS]()
+- [AWS](https://aws.amazon.com/documentation/)
     + [Lambda](https://aws.amazon.com/documentation/lambda/) - Serverless compute. AWS Lambda lets you run code without provisioning or managing servers
     + [EC2](https://aws.amazon.com/documentation/ec2/) - Web service that provides resizable compute capacity in the cloud
     + [Elastic Beanstalk](https://aws.amazon.com/documentation/elastic-beanstalk/) - Deploy and scale web applications and services
@@ -236,6 +252,7 @@ Note that resources are listed in no particular order of preference or relevance
     + [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/documentation/sns/) - Fully managed and highly scalable push messaging
     + [Amazon Simple Email Service (Amazon SES)](https://aws.amazon.com/documentation/ses/) - Reliable, cost-effective email platform
     + [Amazon Simple Queue Service (SQS)](https://aws.amazon.com/documentation/sqs/) - A fast, reliable, scalable, fully managed message queuing service
+- [Apache Projects List (by category)](https://projects.apache.org/projects.html?category)
 - [Google Cloud Platform](https://cloud.google.com/docs/)
 - [Digital Ocean](https://developers.digitalocean.com/documentation/)
 
