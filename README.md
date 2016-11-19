@@ -9,8 +9,7 @@ I've also included links for web and API development, programming languages, Dev
 Note that resources are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
 ## Table of Contents
-- [Blogs](.#Blogs)
-- [Articles](.#Articles)
+Coming Soon...
 
 ## Blogs
 - [InnoArchiTech](http://www.innoarchitech.com/)
