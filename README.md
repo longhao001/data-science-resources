@@ -137,14 +137,14 @@ Note that resources are listed in no particular order of preference or relevance
 - [ElasticSearch](https://www.elastic.co/guide/index.html) - Service that makes it easy to deploy, operate, and scale Elasticsearch in the AWS Cloud
 - [Hadoop](http://hadoop.apache.org/docs/current/)
 - [Spark](http://spark.apache.org/docs/latest/)
+- [Hive](https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
+- [Pig](http://pig.apache.org/docs/r0.16.0/)
 
 ## Platforms, Libraries, and Packages
 - [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/)
 - [Weka](http://www.cs.waikato.ac.nz/ml/weka/documentation.html)
 - [Theano](http://deeplearning.net/software/theano/)
 - [TensorFlow](https://www.tensorflow.org/versions/r0.11/api_docs/index.html)
-- [Hive](https://cwiki.apache.org/confluence/display/Hive/LanguageManual)
-- [Pig](http://pig.apache.org/docs/r0.16.0/)
 - [Anaconda](https://docs.continuum.io/)
 - Python
     + [IPython Documentation](http://ipython.readthedocs.io/en/stable/)
