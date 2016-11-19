@@ -64,3 +64,11 @@
 
 
 ## General
+- [Lambda Architecture](http://lambda-architecture.net/)
+- [Introduction to big data classification and architecture](http://www.ibm.com/developerworks/library/bd-archpatterns1/)
+- [An Enterprise Architect’s Guide to Big Data](http://www.oracle.com/technetwork/topics/entarch/articles/oea-big-data-guide-1522052.pdf)
+- [BIG DATA REFERENCE ARCHITECTURE](https://thinkbiganalytics.com/leading_big_data_technologies/big-data-reference-architecture/)
+- [Getting Started with Big Data Architecture](http://blog.cloudera.com/blog/2014/09/getting-started-with-big-data-architecture/)
+- [BIG DATA: Architectures and Technologies](https://www.sei.cmu.edu/go/big-data/)
+- [Big Data Architecture](http://bigdata.teradata.com/US/Big-Ideas/Big-Data-Architecture/)
+- [Big Data Analytics Architecture](http://www.thebigdatainsightgroup.com/site/sites/default/files/Teradata's%20-%20Big%20Data%20Architecture%20-%20Putting%20all%20your%20eggs%20in%20one%20basket.pdf)
