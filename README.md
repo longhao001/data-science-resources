@@ -121,6 +121,19 @@ Note that resources are listed in no particular order of preference or relevance
     + [Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
     + [IoT](https://aws.amazon.com/documentation/iot/) - Easily and securely connect devices to the cloud
     + [AWS Data Pipeline](https://aws.amazon.com/documentation/data-pipeline/) - Easily automate the movement and transformation of data
+- [Google Cloud Platform](https://cloud.google.com/docs/)
+    + [BigQuery](https://cloud.google.com/bigquery/docs/) - Fully managed, petabyte scale, low cost analytics data warehouse
+    + [Dataflow](https://cloud.google.com/dataflow/docs/) - A fully-managed cloud service and programming model for batch and streaming big data processing
+    + [Dataproc](https://cloud.google.com/dataproc/docs/) - A managed Apache Spark and Apache Hadoop service that lets you take advantage of open source data tools for batch processing, querying, streaming, and machine learning
+    + [Datalab](https://cloud.google.com/datalab/docs/) - An easy to use interactive tool for large-scale data exploration, analysis, and visualization
+    + [Machine Learning](https://cloud.google.com/ml/docs/) - Machine Learning on any data, of any size
+    + [Prediction API](https://cloud.google.com/prediction/docs/) - A RESTful API to build Machine Learning models
+    + [Jobs API](https://cloud.google.com/jobs-api/) - Job search and discovery powered by machine learning
+    + [Natural Language API](https://cloud.google.com/natural-language/docs/) - Provides natural language understanding technologies to developers, including sentiment analysis, entity recognition, and syntax analysis
+    + [Speech API](https://cloud.google.com/speech/docs/) - Easy integration of Google speech recognition technologies into developer applications
+    + [Translate API](https://cloud.google.com/translate/docs/) - Dynamically translate text between thousands of language pairs
+    + [Vision API](https://cloud.google.com/vision/docs/) - Easily integrate vision detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content
+    + [Pub/Sub](https://cloud.google.com/pubsub/docs/) - A fully-managed real-time messaging service that allows you to send and receive messages between independent applications
 - [Apache Foundation](https://www.apache.org/)
     + [HBase](https://hbase.apache.org/book.html) - Apache HBase is the Hadoop database, a distributed, scalable, big data store
     + [Hadoop](http://hadoop.apache.org/docs/current/) - Open-source software for reliable, scalable, distributed computing
