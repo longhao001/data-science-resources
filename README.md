@@ -9,7 +9,8 @@ I've also included links for web and API development, programming languages, Dev
 Note that resources are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
 ## Table of Contents
-Coming Soon...
+- <p><a href="#Whitepapers">Whitepapers</a></p>
+<!-- Coming Soon... -->
 
 ## Blogs
 - [InnoArchiTech](http://www.innoarchitech.com/)
@@ -331,7 +332,8 @@ Coming Soon...
 - [Machine Learning From Streaming Data: Two Problems, Two Solutions, Two Concerns, and Two Lessons](https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/)
 - [Batch vs. Real Time Data Processing](http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing)
 
-## Whitepapers
+<!-- ## Whitepapers -->
+<h2><a name="Whitepapers">Whitepapers</a></h2>
 - [AWS](https://aws.amazon.com/whitepapers/)
     + [Architecting for the Cloud](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
     + [AWS Serverless Multi-Tier Architectures](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
