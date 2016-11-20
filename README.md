@@ -9,23 +9,23 @@ I've also included links for web and API development, programming languages, Dev
 Note that resources are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
 ## Table of Contents
-- <p><a href="#blogs">Blogs</a></p>
-- <p><a href="#gitHub-repos">GitHub Repos</a></p>
-- <p><a href="#notebooks">Notebooks</a></p>
-- <p><a href="#book-resources">Book Resources</a></p>
-- <p><a href="#cheats">Cheats</a></p>
-- <p><a href="#web-resources">Web Resources</a></p>
-- <p><a href="#datasets">Datasets</a></p>
-- <p><a href="#ides">IDEs</a></p>
-- <p><a href="#programming-languages-os">Programming Languages and OS</a></p>
-- <p><a href="#database-big-data">Database and Big Data</a></p>
-- <p><a href="#platforms-libraries-packages">Platforms, Libraries, and Packages</a></p>
-- <p><a href="#cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a></p>
-- <p><a href="#web-api-devops">Web, API, and DevOps</a></p>
-- <p><a href="#books">Books</a></p>
-- <p><a href="#tutorials">Tutorials</a></p>
-- <p><a href="#articles">Articles</a></p>
-- <p><a href="#whitepapers">Whitepapers</a></p>
+- <a href="#blogs">Blogs</a>
+- <a href="#gitHub-repos">GitHub Repos</a>
+- <a href="#notebooks">Notebooks</a>
+- <a href="#book-resources">Book Resources</a>
+- <a href="#cheats">Cheats</a>
+- <a href="#web-resources">Web Resources</a>
+- <a href="#datasets">Datasets</a>
+- <a href="#ides">IDEs</a>
+- <a href="#programming-languages-os">Programming Languages and OS</a>
+- <a href="#database-big-data">Database and Big Data</a>
+- <a href="#platforms-libraries-packages">Platforms, Libraries, and Packages</a>
+- <a href="#cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a>
+- <a href="#web-api-devops">Web, API, and DevOps</a>
+- <a href="#books">Books</a>
+- <a href="#tutorials">Tutorials</a>
+- <a href="#articles">Articles</a>
+- <a href="#whitepapers">Whitepapers</a>
 
 <h2><a name="blogs">Blogs</a></h2>
 - [InnoArchiTech](http://www.innoarchitech.com/)
