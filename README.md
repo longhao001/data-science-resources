@@ -62,6 +62,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks)
+- [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 
 <h2><a name="notebooks">Notebooks</a></h2>
 - [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
