@@ -2,7 +2,7 @@
 
 Welcome! 
 
-Here is a non-exaustive, work in progress list of resources for data science, machine learning, artificial intelligence, data and text analytics, and data visualization.
+Here is a non-exaustive, work in progress set of resources for data science, machine learning, artificial intelligence, data and text analytics, and data visualization.
 
 I've also included links for web and API development, programming languages, DevOps tools, cloud computing, and more.
 
