@@ -34,6 +34,11 @@
 
 ## AWS
 - [Solution Development Guides](https://aws.amazon.com/solutions)
+    + Reference Architectures
+        * [Web Application Hosting](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf)
+        * [Batch Processing](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_batch_03.pdf)
+        * [Large Scale Computing and Large Data Sets](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_largescale_05.pdf)
+        * [Time Series Processing](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_timeseriesprocessing_16.pdf)
     + By Application
         * [Websites](https://aws.amazon.com/websites/)
         * [Backup and Recovery](https://aws.amazon.com/backup-recovery/)
@@ -57,6 +62,16 @@
         * [Government](https://aws.amazon.com/government-education/government/)
         * [Nonprofit](https://aws.amazon.com/government-education/nonprofits/)
         * [Education](https://aws.amazon.com/education/)
+- [Partner Solutions](https://aws.amazon.com/solutions/partners/)
+    + [Big Data](https://aws.amazon.com/big-data/partner-solutions/)
+    + [Storage](https://aws.amazon.com/backup-recovery/partner-solutions/)
+    + [DevOps](https://aws.amazon.com/devops/partner-solutions/)
+- [Case Studies](https://aws.amazon.com/solutions/case-studies/)
+    + [Analytics](https://aws.amazon.com/solutions/case-studies/analytics/)
+    + [Big Data](https://aws.amazon.com/solutions/case-studies/big-data/)
+    + [Enterprise](https://aws.amazon.com/solutions/case-studies/enterprise-it/)
+    + [Startups](https://aws.amazon.com/solutions/case-studies/start-ups/)
+    + [Web Apps](https://aws.amazon.com/solutions/case-studies/web-mobile-social/)
 
 ## Google Cloud Platform
 - [Big data reference architecture diagram](https://cloud.google.com/images/products/big-data/big-data-diagram.png)
