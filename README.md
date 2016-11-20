@@ -211,22 +211,25 @@ Note that resources are listed in no particular order of preference or relevance
 - [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
 - [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
 - Python
-    + [IPython Documentation](http://ipython.readthedocs.io/en/stable/)
-    + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/)
-    + [Matplotlib](http://matplotlib.org/)
-    + [Natural Language Toolkit](http://www.nltk.org/)
-    + [Numpy and Scipy](https://docs.scipy.org/doc/)
-    + [Pandas](http://pandas.pydata.org/pandas-docs/stable/)
-    + [PyBrain](http://pybrain.org/)
-    + [Scikit-image](http://scikit-image.org/)
-    + [Scikit-learn](http://scikit-learn.org/stable/documentation.html)
-    + [Seaborn](http://seaborn.pydata.org/api.html)
-    + [StatsModels](http://statsmodels.sourceforge.net/documentation.html)
-    + [Pattern](https://github.com/clips/pattern)
-    + [Scrapy](https://scrapy.org/doc/)
-    + [Bokeh](http://bokeh.pydata.org/en/latest/docs/user_guide.html)
-    + [Basemap](http://matplotlib.org/basemap/users/index.html)
-    + [NetworkX](http://networkx.github.io/documentation.html)
+    + [IPython Documentation](http://ipython.readthedocs.io/en/stable/) - Comprehensive environment for interactive and exploratory computing
+    + [Jupyter notebook](http://jupyter-notebook.readthedocs.io/en/latest/) - A web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text
+    + [Matplotlib](http://matplotlib.org/) - A python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
+    + [Natural Language Toolkit](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data
+    + [Numpy](https://docs.scipy.org/doc/) - The fundamental package for scientific computing with Python
+    + [Scipy](https://docs.scipy.org/doc/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering
+    + [Pandas](http://pandas.pydata.org/pandas-docs/stable/) - An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
+    + [PyBrain](http://pybrain.org/) - Python-Based Reinforcement Learning, Artificial Intelligence and Neural Network Library
+    + [Scikit-image](http://scikit-image.org/) - A collection of algorithms for image processing
+    + [Scikit-learn](http://scikit-learn.org/stable/documentation.html) - A Python module for machine learning
+    + [Seaborn](http://seaborn.pydata.org/api.html) - A Python visualization library based on matplotlib
+    + [StatsModels](http://statsmodels.sourceforge.net/documentation.html) - A Python module that allows users to explore data, estimate statistical models, and perform statistical tests
+    + [Pattern](https://github.com/clips/pattern) - Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization
+    + [Scrapy](https://scrapy.org/doc/) - 
+An open source and collaborative framework for extracting the data you need from websites
+    + [Bokeh](http://bokeh.pydata.org/en/latest/docs/user_guide.html) - A Python interactive visualization library that targets modern web browsers for presentation
+    + [Basemap](http://matplotlib.org/basemap/users/index.html) - A library for plotting 2D data on maps in Python
+    + [NetworkX](http://networkx.github.io/documentation.html) - A Python language software package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
+    + [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - A Python library for pulling data out of HTML and XML files
 - R
     + [ggplot2](http://docs.ggplot2.org/current/)
     + [ISLR](https://cran.r-project.org/web/packages/ISLR/index.html)
