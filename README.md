@@ -9,10 +9,25 @@ I've also included links for web and API development, programming languages, Dev
 Note that resources are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
 ## Table of Contents
-- <p><a href="#Whitepapers">Whitepapers</a></p>
-<!-- Coming Soon... -->
+- <p><a href="#blogs">Blogs</a></p>
+- <p><a href="#gitHub-repos">GitHub Repos</a></p>
+- <p><a href="#notebooks">Notebooks</a></p>
+- <p><a href="#book-resources">Book Resources</a></p>
+- <p><a href="#cheats">Cheats</a></p>
+- <p><a href="#web-resources">Web Resources</a></p>
+- <p><a href="#datasets">Datasets</a></p>
+- <p><a href="#ides">IDEs</a></p>
+- <p><a href="#programming-languages-os">Programming Languages and OS</a></p>
+- <p><a href="#database-big-data">Database and Big Data</a></p>
+- <p><a href="#platforms-libraries-packages">Platforms, Libraries, and Packages</a></p>
+- <p><a href="#cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a></p>
+- <p><a href="#web-api-devops">Web, API, and DevOps</a></p>
+- <p><a href="#books">Books</a></p>
+- <p><a href="#tutorials">Tutorials</a></p>
+- <p><a href="#articles">Articles</a></p>
+- <p><a href="#whitepapers">Whitepapers</a></p>
 
-## Blogs
+<h2><a name="blogs">Blogs</a></h2>
 - [InnoArchiTech](http://www.innoarchitech.com/)
 - [Flowing Data](http://flowingdata.com/)
 - [KDnuggets](http://www.kdnuggets.com/)
@@ -28,7 +43,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Edwin Chen](http://blog.echen.me/)
 - [Harvard Data Science](http://harvarddatascience.com/)
 
-## GitHub Repos
+<h2><a name="gitHub-repos">GitHub Repos</a></h2>
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 - [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources)
 - [Data science blogs](https://github.com/rushter/data-science-blogs)
@@ -48,14 +63,14 @@ Note that resources are listed in no particular order of preference or relevance
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks)
 
-## Notebooks
+<h2><a name="notebooks">Notebooks</a></h2>
 - [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 - [machine_learning](https://github.com/masinoa/machine_learning)
 - [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
 - [Spark Notebook](https://github.com/andypetrella/spark-notebook)
 
-## Book Resources
+<h2><a name="book-resources">Book Resources</a></h2>
 - [Python Machine Learning book resources](https://github.com/rasbt/python-machine-learning-book)
 - [Python Machine Learning book FAQ](https://github.com/rasbt/python-machine-learning-book/tree/master/faq)
 - [Learning-Predictive-Analytics-with-R](https://github.com/PacktPublishing/Learning-Predictive-Analytics-with-R)
@@ -63,7 +78,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [IPython Cookbook materials](https://github.com/ipython-books/cookbook-code)
 - [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-## Cheats
+<h2><a name="cheats">Cheats</a></h2>
 - [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/)
 - [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)
@@ -71,7 +86,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [AI Cheat Sheet](http://alexoner.github.io/AI-cheat-sheet/)
 - [Data Science Cheat Sheet](http://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet)
 
-## Web Resources
+<h2><a name="web-resources">Web Resources</a></h2>
 - [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
 - [Data School resources](http://www.dataschool.io/resources/)
 - [Open Source Data Science Masters](http://datasciencemasters.org/)
@@ -79,7 +94,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
 
-## Datasets
+<h2><a name="datasets">Datasets</a></h2>
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [AWS Public Datasets](https://aws.amazon.com/datasets/)
 - [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
@@ -91,11 +106,11 @@ Note that resources are listed in no particular order of preference or relevance
 - [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 - [THE Wikipedia Corpus](http://corpus.byu.edu/wiki/)
 
-## IDEs
+<h2><a name="ides">IDEs</a></h2>
 - [Sublime Text](https://www.sublimetext.com/)
 - [R Studio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
 
-## Programming Languages & OS
+<h2><a name="programming-languages-os">Programming Languages and OS</a></h2>
 - [Python](https://docs.python.org/3/)
 - [R](https://cran.r-project.org/manuals.html)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -113,7 +128,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [YAML](http://yaml.org/spec/1.2/spec.html)
 - [Git](https://git-scm.com/documentation)
 
-## Database and Big Data
+<h2><a name="database-big-data">Database and Big Data</a></h2>
 - [AWS](https://aws.amazon.com/documentation/)
     - [Redshift](https://aws.amazon.com/documentation/redshift/) - Fast, simple, cost-effective data warehousing
     - [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - Fast and flexible NoSQL database service for any scale
@@ -182,7 +197,7 @@ Note that resources are listed in no particular order of preference or relevance
 - Cache
     - [Memcache](https://memcached.org/) - High-performance, distributed memory object caching system
 
-## Platforms, Libraries, and Packages
+<h2><a name="platforms-libraries-packages">Platforms, Libraries, and Packages</a></h2>
 - [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/) - A high-level neural networks library, written in Python and capable of running on top of either TensorFlow or Theano
 - [Weka](http://www.cs.waikato.ac.nz/ml/weka/documentation.html) - A collection of machine learning algorithms for data mining tasks
 - [Theano](http://deeplearning.net/software/theano/) - Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently
@@ -276,7 +291,7 @@ Note that resources are listed in no particular order of preference or relevance
     + [General CRAN List - NLP/Text analytics](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
     + [General CRAN List](https://cran.r-project.org/web/views/MachineLearning.html)
 
-## Cloud/SaaS/Paas/IaaS
+<h2><a name="cloud-saas-paas-iaas">Cloud/SaaS/PaaS/IaaS</a></h2>
 - [AWS](https://aws.amazon.com/documentation/)
     + [Lambda](https://aws.amazon.com/documentation/lambda/) - Serverless compute. AWS Lambda lets you run code without provisioning or managing servers
     + [EC2](https://aws.amazon.com/documentation/ec2/) - Web service that provides resizable compute capacity in the cloud
@@ -289,7 +304,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Google Cloud Platform](https://cloud.google.com/docs/)
 - [Digital Ocean](https://developers.digitalocean.com/documentation/)
 
-## Web, API, and DevOps
+<h2><a name="web-api-devops">Web, API, and DevOps</a></h2>
 - [Node.js](https://nodejs.org/en/docs/)
 - [AngularJS](https://docs.angularjs.org/guide)
 - [React](https://facebook.github.io/react/docs/hello-world.html)
@@ -302,7 +317,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/README.md)
 - [Nginx](https://nginx.org/en/docs/)
 
-## Books
+<h2><a name="books">Books</a></h2>
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html)
 - [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Mastering Predictive Analytics with R](https://www.packtpub.com/application-development/mastering-predictive-analytics-r)
@@ -314,10 +329,10 @@ Note that resources are listed in no particular order of preference or relevance
 - [Predictive Analytics](http://www.cs.columbia.edu/~evs/)
 - [Real-World Machine Learning](https://www.manning.com/books/real-world-machine-learning)
 
-## Tutorials
+<h2><a name="tutorials">Tutorials</a></h2>
 - [Comparing Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/)
 
-## Articles
+<h2><a name="articles">Articles</a></h2>
 - [Best machine learning packages in R](http://www.kdnuggets.com/2015/06/top-20-r-machine-learning-packages.html)
 - [The Data Science Industry: Who Does What (Infographic)](https://www.datacamp.com/community/tutorials/data-science-industry-infographic)
 - [Data Science Falls Into Many Roles](http://www.forbes.com/sites/rawnshah/2015/10/06/data-science-falls-into-many-roles/)
@@ -332,8 +347,7 @@ Note that resources are listed in no particular order of preference or relevance
 - [Machine Learning From Streaming Data: Two Problems, Two Solutions, Two Concerns, and Two Lessons](https://blog.bigml.com/2013/03/12/machine-learning-from-streaming-data-two-problems-two-solutions-two-concerns-and-two-lessons/)
 - [Batch vs. Real Time Data Processing](http://www.datasciencecentral.com/profiles/blogs/batch-vs-real-time-data-processing)
 
-<!-- ## Whitepapers -->
-<h2><a name="Whitepapers">Whitepapers</a></h2>
+<h2><a name="whitepapers">Whitepapers</a></h2>
 - [AWS](https://aws.amazon.com/whitepapers/)
     + [Architecting for the Cloud](https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
     + [AWS Serverless Multi-Tier Architectures](https://d0.awsstatic.com/whitepapers/AWS_Serverless_Multi-Tier_Architectures.pdf)
