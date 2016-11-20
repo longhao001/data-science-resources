@@ -8,7 +8,7 @@ I've also included links for web and API development, programming languages, Dev
 
 Note that resources are listed in no particular order of preference or relevance. Well... maybe except for my blog :)
 
-## Table of Contents | <small>Click to navigate</small>
+## Table of Contents
 - <a href="#blogs">Blogs</a>
 - <a href="#gitHub-repos">GitHub Repos</a>
 - <a href="#notebooks">Notebooks</a>
