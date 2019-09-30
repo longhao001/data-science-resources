@@ -21,6 +21,7 @@ I've also included links for web and API development, programming languages, Dev
 - [Data Science Weekly](https://www.datascienceweekly.org/)
 - [Edwin Chen](http://blog.echen.me/)
 - [Harvard Data Science](http://harvarddatascience.com/)
+- [The Data Science Wiki](https://wiki.atlan.com/)
 
 ## GitHub Repos
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
